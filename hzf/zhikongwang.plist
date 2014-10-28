@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://git.oschina.net/maiapp/agent/raw/master/hzf/zhikongwang.ipa</string>
+					<string>https://raw.githubusercontent.com/maimake/agent/master/hzf/zhikongwang.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
