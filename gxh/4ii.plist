@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.4ii.cc/4ii.ipa</string>
+					<string>https://raw.githubusercontent.com/maimake/agent/master/gxh/4ii.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://download.4ii.cc/large.png</string>
+					<string>https://raw.githubusercontent.com/maimake/agent/master/gxh/large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://download.4ii.cc/small.png</string>
+					<string>https://raw.githubusercontent.com/maimake/agent/master/gxh/small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
