@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.tutushuju.com/ttsj.ipa</string>
+					<string>http://www.nts99.com/ttsj/ttsj.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://app.tutushuju.com/large.png</string>
+					<string>http://www.nts99.com/ttsj/large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://app.tutushuju.com/small.png</string>
+					<string>http://www.nts99.com/ttsj/small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
