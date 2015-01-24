@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mai.carply.yybpay</string>
+				<string>com.bopay.yyp</string>
 				<key>bundle-version</key>
 				<string>1.1.6</string>
 				<key>kind</key>
