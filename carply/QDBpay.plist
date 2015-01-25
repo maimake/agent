@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://service.imagpay.com/pay/apk/large.png</string>
+					<string>http://service.imagpay.com/pay/apk/QDBpay.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://service.imagpay.com/pay/apk/small.png</string>
+					<string>http://service.imagpay.com/pay/apk/QDBpay.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
