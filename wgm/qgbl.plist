@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.mai.wgm.qgbl</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string></string>
+				<string>奇怪便利</string>
 			</dict>
 		</dict>
 	</array>
