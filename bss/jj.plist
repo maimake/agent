@@ -33,18 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>File Doesn't Exist, Will Create: /Users/yshxinjian/develop/myExample/resign-agent/agent/bss/jj/___temp___/Payload/JJ.app
-/Users/yshxinjian/develop/myExample/resign-agent/agent/bss/jj/___temp___/Payload/jj_ios.app/Info.plist</string>
+				<string>com.mai.bss.jj</string>
 				<key>bundle-version</key>
-				<string>File Doesn't Exist, Will Create: /Users/yshxinjian/develop/myExample/resign-agent/agent/bss/jj/___temp___/Payload/JJ.app
-/Users/yshxinjian/develop/myExample/resign-agent/agent/bss/jj/___temp___/Payload/jj_ios.app/Info.plist</string>
+				<string>1.0.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>File Doesn't Exist, Will Create: /Users/yshxinjian/develop/myExample/resign-agent/agent/bss/jj/___temp___/Payload/JJ.app
-/Users/yshxinjian/develop/myExample/resign-agent/agent/bss/jj/___temp___/Payload/jj_ios.app/Info.plist</string>
+				<string>JJ</string>
 			</dict>
 		</dict>
 	</array>
