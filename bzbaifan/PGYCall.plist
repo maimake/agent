@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xuezitx.com/flb/flb.ipa</string>
+					<string>https://ssl.goh8.com/ios/PGYCall/PGYCall.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.xuezitx.com/flb/flb_large.png</string>
+					<string>https://ssl.goh8.com/ios/PGYCall/PGYCall_large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.xuezitx.com/flb/flb_small.png</string>
+					<string>https://ssl.goh8.com/ios/PGYCall/PGYCall_small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mai.xztx.flb</string>
+				<string>com.mai.bzbaifan.PGYCall</string>
 				<key>bundle-version</key>
-				<string>1</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>FLB</string>
+				<string>掌上蒲公英</string>
 			</dict>
 		</dict>
 	</array>
