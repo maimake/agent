@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.245/ota/projects/langland/Langland/Langland.ipa</string>
+					<string>http://www.langland.cc/download/Langland.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.1.245/ota/projects/langland/Langland/large.png</string>
+					<string>http://www.langland.cc/download/large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.1.245/ota/projects/langland/Langland/small.png</string>
+					<string>http://www.langland.cc/download/small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cc.langland.Langland</string>
+				<string>com.hcc.push</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
