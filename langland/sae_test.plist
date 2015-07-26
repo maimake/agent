@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.langland.cc/download/Langland-1.0-beta.ipa</string>
+					<string>http://langland.sinaapp.com/Langland.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.langland.cc/download/large.png</string>
+					<string>http://langland.sinaapp.com/large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.langland.cc/download/small.png</string>
+					<string>http://langland.sinaapp.com/small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
