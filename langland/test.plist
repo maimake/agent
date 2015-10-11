@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.langland.cc:8083/dyn_inland.php</string>
+					<string>http://aws.maimake.com/langland/langland.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://download.langland.cc/ipa/large.png</string>
+					<string>http://aws.maimake.com/langland/large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://download.langland.cc/ipa/small.png</string>
+					<string>http://aws.maimake.com/langland/small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
