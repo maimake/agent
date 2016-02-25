@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.test.langland.cc/test_ipa.php</string>
+					<string>http://download.test.langland.cc/enterprise_ipa.php</string>
 				</dict>
 				<dict>
 					<key>kind</key>
